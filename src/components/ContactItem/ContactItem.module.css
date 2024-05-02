@@ -1,14 +1,14 @@
 .contact_item {
-    margin-top: 15px;
-    display: flex;
-  }
-  
-  .delete_button {
-    border-radius: 10px;
-    margin-top: 5px;
-    margin-left: 20px;
-    padding: 5px;
-  }
-  .delete_button:hover {
-    cursor: pointer;
-  }
+  margin-top: 15px;
+  display: flex;
+}
+
+.delete_button {
+  border-radius: 10px;
+  margin-top: 5px;
+  margin-left: 20px;
+  padding: 5px;
+}
+.delete_button:hover {
+  cursor: pointer;
+}
