@@ -1,0 +1,13 @@
+.input {
+    margin-top: 10px;
+  }
+  
+  .add_contact_button {
+    margin-top: 20px;
+    border-radius: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+  .add_contact_button:hover {
+    cursor: pointer;
+  }

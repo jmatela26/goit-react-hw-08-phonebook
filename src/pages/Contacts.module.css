@@ -1,0 +1,15 @@
+.title,
+.subtitle {
+  margin-left: 20px;
+}
+
+.container {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  margin: auto;
+  left: 0;
+  right: 0;
+  top: -600px;
+  bottom: 0;
+}
